@@ -1,0 +1,24 @@
+body {
+  align-content: center;
+  background-image: url("http://4.bp.blogspot.com/-ed2Hf3QaLdo/TxyYtF4VDDI/AAAAAAAAC-U/C5LElCR3vsU/s1600/Ashbee+Design+Twigs+3.jpg");
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Syncopate', sans-serif;
+  background-color: white;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  image-orientation: center;
+}
+
+
+
+img {
+  border: 5px dotted #8FBC8F;
+  padding: 20px;
+  align-self: center;
+}
